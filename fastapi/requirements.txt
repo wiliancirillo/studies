@@ -1,3 +1,5 @@
 # Dependency in the project
 fastapi
 uvicorn
+sqlalchemy
+asyncpg
